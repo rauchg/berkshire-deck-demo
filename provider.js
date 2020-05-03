@@ -22,7 +22,7 @@ export default (props) => {
         <a href="https://twitter.com/rauchg" target="_blank">
           @rauchg
         </a>{" "}
-        <a href="https://github.com/rauchg/berkshire-dekc-demo" target="_blank">
+        <a href="https://github.com/rauchg/berkshire-deck-demo" target="_blank">
           (source)
         </a>
       </div>

@@ -1,0 +1,42 @@
+import berkshire from 'mdx-deck-theme-berkshire'
+import Provider from './provider'
+export const theme = { ...berkshire, Provider };
+
+# Never bet against America
+
+---
+
+# This is a great slide style
+
+---
+
+# Simple and effective
+
+---
+
+# Powered by mdx-deck. Run
+
+```
+yarn add mdx-deck@3 mdx-deck-theme-berkshire
+```
+
+---
+
+# Then your `deck.mdx`:
+
+```
+import berkshire from 'mdx-deck-theme-berkshire'
+export const theme = berkshire;
+
+# Never bet against America
+---
+# My next slide
+## Sub-heading with [link](https://vercel.com)
+```
+
+---
+
+# Then deploy!
+1. [Import your repo](https://vercel.com/import) to [Vercel](https://vercel.com)
+2. Run `git push`
+3. You are live: `https://berkshire-mdx-deck.now.sh`

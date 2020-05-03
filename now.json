@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:slide", "destination": "/index.html" } 
+  ]
+}

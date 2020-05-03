@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "mdx-deck": "3.1.0",
+    "mdx-deck-theme-berkshire": "1.0.2"
+  },
+  "scripts": {
+    "dev": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  }
+}
